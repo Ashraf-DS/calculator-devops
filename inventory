@@ -1,0 +1,4 @@
+[ubuntu18]
+172.16.135.70 ansible_ssh_pass=mega ansible_ssh_user=mega
+
+
