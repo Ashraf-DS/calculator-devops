@@ -6,8 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="calculator-devops-master" />
         <module name="calculatordevops" />
+        <module name="calculator-devops-master" />
+        <module name="calculatorDevOps" />
         <module name="CalculatorUsingDevOps" />
       </profile>
     </annotationProcessing>
